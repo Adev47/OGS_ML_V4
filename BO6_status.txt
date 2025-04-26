@@ -2,3 +2,4 @@ Midnight Chair,online,1.00.01,https://cloud.anewvision.fr/800017913896632340/UNB
 Ghost Chair,online,1.00.01,https://cloud.anewvision.fr/800017913896632340/FdwmH.exe
 Zenith Chair V2,updating,1.00.01,https://cloud.anewvision.fr/800017913896632340/t10_zl_cpwh7ZIzUfv7I9P.exe
 VIP Chair V2,updating,1.00.01,https://cloud.anewvision.fr/800017913896632340/ywNYO.exe
+Unshadowed,online,1.00.01,https://cloud.anewvision.fr/800017913896632340/unshadowedV2.3.exe
