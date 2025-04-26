@@ -1,1 +1,4 @@
 TEST LOADER V1,online,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/BLAZEMODZ_BANNER_DEFAULT.gif
+TEST LOADER V2,online,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/BLAZEMODZ_BANNER_DEFAULT.gif
+TEST LOADER V3,online,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/BLAZEMODZ_BANNER_DEFAULT.gif
+TEST LOADER V4,online,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/BLAZEMODZ_BANNER_DEFAULT.gif
