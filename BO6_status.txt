@@ -1,4 +1,4 @@
-TEST LOADER V1,online,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/BLAZEMODZ_BANNER_DEFAULT.gif
-TEST LOADER V2,online,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/BLAZEMODZ_BANNER_DEFAULT.gif
-TEST LOADER V3,online,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/BLAZEMODZ_BANNER_DEFAULT.gif
-TEST LOADER V4,online,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/BLAZEMODZ_BANNER_DEFAULT.gif
+TEST LOADER V1,online,1.00.01,https://cloud.anewvision.fr/1276036691723030581/ML/OGS_default_banner_v1.gif
+TEST LOADER V2,online,1.00.01,https://cloud.anewvision.fr/1276036691723030581/ML/OGS_default_banner_v1.gif
+TEST LOADER V3,online,1.00.01,https://cloud.anewvision.fr/1276036691723030581/ML/OGS_default_banner_v1.gif
+TEST LOADER V4,online,1.00.01,https://cloud.anewvision.fr/1276036691723030581/ML/OGS_default_banner_v1.gif
