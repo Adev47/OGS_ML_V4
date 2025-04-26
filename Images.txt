@@ -1,0 +1,2 @@
+Logo,1.00.01,https://cloud.anewvision.fr/1276036691723030581/ML/OGS_default_banner_v1.gif
+Background,1.00.01,https://cloud.anewvision.fr/1276036691723030581/ML/OGS_default_background_v1.png

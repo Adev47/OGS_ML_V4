@@ -1,0 +1,13 @@
+[design]
+highlight_color = #e3e306
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/ogsware
+website_link = https://ogsware.com/
+guide_link = https://ogs.gitbook.io/
+
+[rounded_corners]
+main_widgets = 12
