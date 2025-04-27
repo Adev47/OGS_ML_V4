@@ -1,5 +1,5 @@
 Midnight Chair,online,1.00.01,https://cloud.anewvision.fr/800017913896632340/UNBRANDED.exe
 Ghost Chair,online,1.00.01,https://cloud.anewvision.fr/800017913896632340/FdwmH.exe
-Zenith Chair V2,updating,1.00.01,https://cloud.anewvision.fr/800017913896632340/t10_zl_cpwh7ZIzUfv7I9P.exe
+Zenith Chair V2,updating,1.00.02,https://cloud.anewvision.fr/800017913896632340/t10_zl_v2_m5CJgLOTw04rAuT.exe
 VIP Chair V2,updating,1.00.01,https://cloud.anewvision.fr/800017913896632340/ywNYO.exe
 Unshadowed,online,1.00.01,https://cloud.anewvision.fr/800017913896632340/unshadowedV2.3.exe
