@@ -1,2 +1,0 @@
-AUTO SETUP,online,1.00.01,https://cloud.anewvision.fr/800017913896632340/OGSWareAutoSetup_V1.6.exe
-PERM SPOOFER,online,1.00.01,https://cloud.anewvision.fr/800017913896632340/permwoofer.exe
