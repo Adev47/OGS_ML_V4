@@ -1,6 +1,6 @@
 [BO6] Unshadowed,online,1.00.01,https://cloud.anewvision.fr/800017913896632340/BO6_Unshadowed.exe
 [BO6] Ghost Chair + Blocker,online,1.00.01,https://cloud.anewvision.fr/800017913896632340/BO6_Ghost_Chair__Blocker.exe
 [BO6] Midnight Chair + Blocker,online,1.00.01,https://cloud.anewvision.fr/800017913896632340/BO6_Midnight_Chair__Blocker.exe
-[BO6] VIP Chair V2 + Blocker,offline,1.00.01,https://cloud.anewvision.fr/800017913896632340/BO6_Ghost_Chair__Blocker.exe
+[BO6] VIP Chair V2 + Blocker,offline,1.00.02,https://cloud.anewvision.fr/800017913896632340/BO6_VIP_Chair_V2__Blocker.exe
 [BO6] Zenith Chair V2 + Blocker,online,1.00.01,https://cloud.anewvision.fr/800017913896632340/BO6_Zenith_Chair_V2__Blocker.exe
 [BO6] VIP Unlocker + Blocker,online,1.00.01,https://cloud.anewvision.fr/800017913896632340/BO6_VIP_Unlocker__Blocker.exe
