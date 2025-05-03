@@ -1,0 +1,1 @@
+AutoSetup,online,1.00.01,https://cloud.anewvision.fr/800017913896632340/PC_Auto_Setup.exe
