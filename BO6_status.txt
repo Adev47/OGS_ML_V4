@@ -1,3 +1,4 @@
 EXTERNAL CHAIR,online,1.00.01,https://raw.githubusercontent.com/avod245/800017913896632340_cloud/main/BOEngine.exe
 VIP CHAIR,online,1.00.01,https://raw.githubusercontent.com/avod245/800017913896632340_cloud/main/BO6.exe
 UNLOCK ALL,online,1.00.01,https://raw.githubusercontent.com/avod245/800017913896632340_cloud/main/BO6.exe
+UNSHADOWED,online,1.00.01,https://raw.githubusercontent.com/avod245/800017913896632340_cloud/main/Unshadowed.exe
