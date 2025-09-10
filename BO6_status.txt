@@ -1,3 +1,0 @@
-Unlocker,online,1.00.01,https://raw.githubusercontent.com/avod245/800017913896632340_cloud/main/BO6.exe
-Zenith Chair V2,online,1.00.01,https://raw.githubusercontent.com/avod245/800017913896632340_cloud/main/Zenith_Chair.exe
-AimPal Chair,online,1.00.01,https://raw.githubusercontent.com/avod245/800017913896632340_cloud/main/product.exe
