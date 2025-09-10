@@ -1,2 +1,2 @@
-Logo,1.00.03,https://media.discordapp.net/attachments/1376632471260762112/1376632582149640212/G23FX56.gif?ex=68c31900&is=68c1c780&hm=94b2f57bffe4ca0f6685bdfce94a3bf1e23ec5a70f39a8aa771b53939e0f44ac&=
+Logo,1.00.04,https://media.discordapp.net/attachments/1376632471260762112/1376632582149640212/G23FX56.gif?ex=68c31900&is=68c1c780&hm=94b2f57bffe4ca0f6685bdfce94a3bf1e23ec5a70f39a8aa771b53939e0f44ac&=
 Background,1.00.01,https://cloud.anewvision.fr/1276036691723030581/ML/OGS_default_background_v1.png
