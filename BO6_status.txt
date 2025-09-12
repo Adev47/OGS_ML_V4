@@ -1,3 +1,3 @@
 AimPal,online,1.00.01,https://raw.githubusercontent.com/avod245/800017913896632340_cloud/main/product.exe
-Zenith V2,online,1.00.01,https://raw.githubusercontent.com/avod245/800017913896632340_cloud/main/t10_ZLv2_nLKMZSSI9d06P1eN.exe
+Zenith V2,online,1.00.02,https://raw.githubusercontent.com/avod245/800017913896632340_cloud/main/t10_zlv2_client.exe
 Unlocker,online,1.00.01,https://raw.githubusercontent.com/avod245/800017913896632340_cloud/main/BO6.exe
