@@ -1,1 +1,2 @@
 Temp Spoofer,online,1.00.01,https://raw.githubusercontent.com/avod245/800017913896632340_cloud/main/tempspoof.exe
+Cleaner,online,1.00.01,https://www.dropbox.com/scl/fi/x6lz0r4eoroeksgcpgr2j/cleaner.exe?rlkey=cug8mid8nsn9vewp9btmuanm4&st=ysb85pip&dl=1
